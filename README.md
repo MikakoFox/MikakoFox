@@ -1,7 +1,8 @@
 ## Hi there 👋
 <<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjySQqaPzCxd5gw4idAtrxG1r-4rvs3XrWUw&amp;s" alt="#eipril #fursona #fyp #furryart #furry #animation #2d #edit #girl #capcut"/>![image](https://github.com/user-attachments/assets/d08f5c8a-43ba-4781-8dce-a9fe2e1b9be9)
 >
- <source media="(prefers-color-scheme: dark)" srcset="<img src="![<img src="<img src="https://public-files.gumroad.com/cyofgae0bua8juxo8tvfiyun8gua" alt="High Resolution Wallpapers - Cute Furry Girls&#39; Pack 1"/>![image](https://github.com/user-attachments/assets/ec858a2f-35cb-45d4-8bb2-203d1cfd4c59)
+ <source media="(prefers-color-scheme: dark)" srcset="<img src="![<img src="<img src="https:<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGMWuiOkELB4Dtx-e9VfpG7RAGOrSNXZ5CUQ&amp;s" alt="ArtStation - female furry discord (my ..."/>![image](https://github.com/user-attachments/assets/3d7977de-e7d9-4118-889e-a7df05aeda3a)
+
 
  <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/view/keenora-kee-fursuit-furry-furry-fandom-gif-17232646">
  <img alt="Shining Eyes" src="<img src="[image](https://github.com/user-attachments/assets/62ade3c4-0244-4cd6-8004-f768634b9076)
