@@ -5,9 +5,6 @@
 
 
  <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/view/keenora-kee-fursuit-furry-furry-fandom-gif-17232646">
- <img alt="Shining Eyes" src="<img src="[image](https://github.com/user-attachments/assets/62ade3c4-0244-4cd6-8004-f768634b9076)
-
-</picture>
 
 <!--
 **MikakoFox/MikakoFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
