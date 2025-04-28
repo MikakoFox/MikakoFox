@@ -2,7 +2,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://tenor.com/view/keenora-kee-fursuit-furry-furry-fandom-gif-17232646">
  <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/view/keenora-kee-fursuit-furry-furry-fandom-gif-17232646">
- <img alt="Shining Eyes" src="https://tenor.com/view/furry-interested-shining-eyes-gif-25239541">
+ <img alt="Shining Eyes" src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjySQqaPzCxd5gw4idAtrxG1r-4rvs3XrWUw&amp;s" alt="#eipril #fursona #fyp #furryart #furry #animation #2d #edit #girl #capcut"/>![image](https://github.com/user-attachments/assets/62ade3c4-0244-4cd6-8004-f768634b9076)
+
 </picture>
 
 <!--
